@@ -1,6 +1,8 @@
-def add(a,j)
+def add(a,j):
  reaturn a+j
-add(a,j)
-def square(x)
+a=5,j=5
+print (add(a,j))
+def square(x):
  return x**2
-square(x)
+x=6
+print (square(x))
